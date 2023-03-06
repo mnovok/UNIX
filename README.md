@@ -1,2 +1,2 @@
 # UNIX
-Programiranje za UNIX (120)
+Lab works for Unix programming @ FESB 2022
